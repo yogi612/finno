@@ -2,9 +2,9 @@
 // Database connection configuration
 // Use environment variables or default to development values
 $db_host = getenv('DB_HOST') ?: 'localhost';
-$db_name = getenv('DB_NAME') ?: 'db_finonestsales';
-$db_user = getenv('DB_USER') ?: 'finonestadmin';
-$db_pass = getenv('DB_PASS') ?: 'finonestadmin637811';
+$db_name = getenv('DB_NAME') ?: '';
+$db_user = getenv('DB_USER') ?: '';
+$db_pass = getenv('DB_PASS') ?: '';
 
 // Database connection with better error handling
 try {
