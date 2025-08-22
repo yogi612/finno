@@ -43,10 +43,6 @@ This is the PHP port of the DSA Sales Portal, originally developed as a React/Ty
 - **Finonest Employee** - Internal company employees
 - **Admin** - System administrators
 
-## Default Admin Access
-
-- Email: finonestmedia@gmail.com
-- Password: admin123 (change this immediately after setup)
 
 ## License
 
