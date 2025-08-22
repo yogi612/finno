@@ -1,0 +1,621 @@
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 04:40:10 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 04:49:23 UTC] Error logging audit event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_agent' in 'INSERT INTO'
+[04-Jul-2025 04:49:23 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'INSERT INTO'
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 04:58:42 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 05:05:01 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 05:06:29 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 05:26:51 UTC] Error logging audit event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_data' in 'INSERT INTO'
+[04-Jul-2025 05:26:51 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'INSERT INTO'
+[04-Jul-2025 05:30:35 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'INSERT INTO'
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 06:06:59 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 06:07:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_finonestsales.admin_permissions' doesn't exist in /home/g3azlabpljg9/public_html/includes/permissions.php:7
+Stack trace:
+#0 /home/g3azlabpljg9/public_html/includes/permissions.php(7): PDOStatement->execute()
+#1 /home/g3azlabpljg9/public_html/application/edit.php(43): getEditableFieldsForAdmin()
+#2 {main}
+  thrown in /home/g3azlabpljg9/public_html/includes/permissions.php on line 7
+[04-Jul-2025 06:09:56 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'INSERT INTO'
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 06:14:55 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 06:51:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_finonestsales.admin_permissions' doesn't exist in /home/g3azlabpljg9/public_html/includes/permissions.php:7
+Stack trace:
+#0 /home/g3azlabpljg9/public_html/includes/permissions.php(7): PDOStatement->execute()
+#1 /home/g3azlabpljg9/public_html/application/edit.php(43): getEditableFieldsForAdmin()
+#2 {main}
+  thrown in /home/g3azlabpljg9/public_html/includes/permissions.php on line 7
+[04-Jul-2025 07:13:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_finonestsales.admin_permissions' doesn't exist in /home/g3azlabpljg9/public_html/includes/permissions.php:7
+Stack trace:
+#0 /home/g3azlabpljg9/public_html/includes/permissions.php(7): PDOStatement->execute()
+#1 /home/g3azlabpljg9/public_html/application/edit.php(43): getEditableFieldsForAdmin()
+#2 {main}
+  thrown in /home/g3azlabpljg9/public_html/includes/permissions.php on line 7
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 07:38:47 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 08:30:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:31:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:31:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:32:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:32:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:32:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:32:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:46:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:48:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:48:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:45) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 08:48:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/g3azlabpljg9/public_html/includes/sidenav.php:51) in /home/g3azlabpljg9/public_html/application/new.php on line 7
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 10:16:06 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 10:17:38 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 10:19:27 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 10:19:32 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 10:19:35 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 11:05:39 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 11:09:10 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 12:09:58 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 12:11:53 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 15:48:21 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 15:49:00 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 15:49:39 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:57:17 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:57:24 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:57:27 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:57:34 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:57:44 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:58:01 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:58:08 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:58:21 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:58:29 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:59:16 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:59:28 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 16:59:33 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 17:00:07 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[04-Jul-2025 17:00:24 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[05-Jul-2025 05:02:25 UTC] Error logging audit event: SQLSTATE[22003]: Numeric value out of range: 167 Out of range value for column 'id' at row 1
+[05-Jul-2025 05:02:25 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'INSERT INTO'
+[05-Jul-2025 05:02:44 UTC] Error creating notification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'INSERT INTO'
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[07-Jul-2025 04:52:19 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[07-Jul-2025 06:00:36 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[08-Jul-2025 15:22:28 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[08-Jul-2025 15:22:53 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[09-Jul-2025 06:17:46 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/g3azlabpljg9/public_html/application/view.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/g3azlabpljg9/public_html/application/view.php on line 77
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[09-Jul-2025 06:17:53 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[11-Jul-2025 10:47:38 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[14-Jul-2025 09:48:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/g3azlabpljg9/public_html/application/edit.php on line 172
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[14-Jul-2025 11:06:50 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[14-Jul-2025 11:06:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/g3azlabpljg9/public_html/application/edit.php on line 172
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 243
+[14-Jul-2025 11:26:05 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[14-Jul-2025 11:28:01 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[14-Jul-2025 11:28:29 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[15-Jul-2025 07:11:19 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[17-Jul-2025 07:10:44 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 95
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 96
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 99
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined array key "status" in /home/g3azlabpljg9/public_html/application/view.php on line 100
+[17-Jul-2025 07:15:34 UTC] PHP Warning:  Undefined variable $loading in /home/g3azlabpljg9/public_html/application/view.php on line 274
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[24-Jul-2025 04:58:39 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[29-Jul-2025 04:51:12 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[29-Jul-2025 04:51:20 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[29-Jul-2025 07:09:40 UTC] functions.php loaded
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[29-Jul-2025 07:09:40 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[29-Jul-2025 07:16:14 UTC] functions.php loaded
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[29-Jul-2025 07:16:14 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[29-Jul-2025 07:18:35 UTC] functions.php loaded
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[29-Jul-2025 07:18:35 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[01-Aug-2025 10:23:57 UTC] functions.php loaded
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[01-Aug-2025 10:23:57 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[01-Aug-2025 10:24:56 UTC] functions.php loaded
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[01-Aug-2025 10:24:56 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[01-Aug-2025 11:07:50 UTC] functions.php loaded
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[01-Aug-2025 11:07:50 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[01-Aug-2025 11:23:58 UTC] functions.php loaded
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[01-Aug-2025 11:23:58 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[01-Aug-2025 11:24:25 UTC] functions.php loaded
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[01-Aug-2025 11:24:25 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[02-Aug-2025 05:58:14 UTC] functions.php loaded
+[07-Aug-2025 05:45:49 UTC] functions.php loaded
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[07-Aug-2025 05:45:49 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[07-Aug-2025 05:48:14 UTC] functions.php loaded
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[07-Aug-2025 05:48:14 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:14:01 UTC] functions.php loaded
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:14:01 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:14:30 UTC] functions.php loaded
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:14:30 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:24:55 UTC] functions.php loaded
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:24:55 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:25:01 UTC] functions.php loaded
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:25:01 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:25:13 UTC] functions.php loaded
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:25:13 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:43:09 UTC] functions.php loaded
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:43:09 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:43:16 UTC] functions.php loaded
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:43:16 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 07:43:40 UTC] functions.php loaded
+[11-Aug-2025 07:43:40 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 07:43:41 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[11-Aug-2025 08:21:50 UTC] functions.php loaded
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 243
+[11-Aug-2025 08:21:50 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[16-Aug-2025 09:42:30 UTC] functions.php loaded
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 09:42:30 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[16-Aug-2025 09:42:55 UTC] functions.php loaded
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 09:42:55 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[16-Aug-2025 10:00:23 UTC] functions.php loaded
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 95
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 99
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:00:23 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 274
+[16-Aug-2025 10:01:04 UTC] functions.php loaded
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 97
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 101
+[16-Aug-2025 10:01:04 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 275
+[16-Aug-2025 10:01:09 UTC] functions.php loaded
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 97
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 101
+[16-Aug-2025 10:01:09 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 275
+[16-Aug-2025 10:06:18 UTC] functions.php loaded
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 97
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 101
+[16-Aug-2025 10:06:18 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 275
+[17-Aug-2025 15:18:59 UTC] functions.php loaded
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 97
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 101
+[17-Aug-2025 15:18:59 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 275
+[19-Aug-2025 05:08:00 UTC] functions.php loaded
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 96
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 97
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 100
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 101
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 244
+[19-Aug-2025 05:08:00 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 275
+[19-Aug-2025 05:18:21 UTC] functions.php loaded
+[19-Aug-2025 05:18:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/we1v5srjoh3v/public_html/dashboard.finonest.com/includes/header.php:144) in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 46
+[19-Aug-2025 05:18:32 UTC] functions.php loaded
+[19-Aug-2025 05:18:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/we1v5srjoh3v/public_html/dashboard.finonest.com/includes/header.php:144) in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 46
+[19-Aug-2025 05:20:13 UTC] functions.php loaded
+[19-Aug-2025 05:20:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/we1v5srjoh3v/public_html/dashboard.finonest.com/includes/header.php:144) in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 46
+[19-Aug-2025 05:20:56 UTC] functions.php loaded
+[19-Aug-2025 05:20:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/we1v5srjoh3v/public_html/dashboard.finonest.com/includes/header.php:144) in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 46
+[19-Aug-2025 05:21:53 UTC] functions.php loaded
+[19-Aug-2025 05:21:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/we1v5srjoh3v/public_html/dashboard.finonest.com/includes/header.php:144) in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 46
+[19-Aug-2025 05:24:10 UTC] functions.php loaded
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 124
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 125
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 128
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 128
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined array key "status" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 129
+[19-Aug-2025 05:24:10 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 129
+[19-Aug-2025 05:24:10 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 303
+[19-Aug-2025 05:25:40 UTC] functions.php loaded
+[19-Aug-2025 05:25:40 UTC] PHP Warning:  Undefined variable $loading in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/view.php on line 306
+[19-Aug-2025 05:26:23 UTC] functions.php loaded
+[19-Aug-2025 05:28:48 UTC] functions.php loaded
+[19-Aug-2025 05:29:35 UTC] functions.php loaded
+[19-Aug-2025 05:29:48 UTC] functions.php loaded
+[19-Aug-2025 05:31:07 UTC] functions.php loaded
+[19-Aug-2025 05:34:20 UTC] functions.php loaded
+[19-Aug-2025 05:34:22 UTC] functions.php loaded
+[19-Aug-2025 05:34:37 UTC] functions.php loaded
+[19-Aug-2025 05:38:04 UTC] functions.php loaded
+[19-Aug-2025 05:39:00 UTC] functions.php loaded
+[19-Aug-2025 05:41:20 UTC] functions.php loaded
+[19-Aug-2025 05:42:10 UTC] functions.php loaded
+[19-Aug-2025 06:11:06 UTC] functions.php loaded
+[19-Aug-2025 09:02:03 UTC] functions.php loaded
+[19-Aug-2025 09:02:07 UTC] functions.php loaded
+[19-Aug-2025 09:49:03 UTC] functions.php loaded
+[19-Aug-2025 09:49:06 UTC] functions.php loaded
+[21-Aug-2025 07:09:25 UTC] functions.php loaded
+[21-Aug-2025 07:09:51 UTC] functions.php loaded
+[21-Aug-2025 07:09:54 UTC] functions.php loaded
+[21-Aug-2025 11:55:05 UTC] functions.php loaded
+[22-Aug-2025 10:11:57 UTC] PHP Warning:  Undefined array key "channel_mobile_name" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php on line 94
+[22-Aug-2025 10:11:57 UTC] PHP Warning:  Undefined array key "channel_mobile_name" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php on line 96
+[22-Aug-2025 10:11:57 UTC] PHP Warning:  Undefined array key "channel_mobile_number" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php on line 94
+[22-Aug-2025 10:11:57 UTC] PHP Warning:  Undefined array key "channel_mobile_number" in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php on line 96
+[22-Aug-2025 10:11:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'channel_mobile_name' in 'SET' in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php:103
+Stack trace:
+#0 /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php(103): PDOStatement->execute()
+#1 {main}
+  thrown in /home/we1v5srjoh3v/public_html/dashboard.finonest.com/application/edit.php on line 103
